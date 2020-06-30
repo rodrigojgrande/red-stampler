@@ -1,0 +1,38 @@
+body {
+    overflow-x:hidden;
+}
+
+.parallax {
+    width: 100vw;
+    height:100vh;
+    background-image: url(wallpaper.png);
+    background-position: center top;
+   	background-repeat: no-repeat;
+   	background-size: cover;
+   	background-attachment: fixed;
+   	color: white;
+   	display: flex;
+   	justify-content: center;
+	align-items: center;
+}
+
+.parallax2 {
+    width: 100vw;
+    height:100vh;
+    background-image: url(image.png);
+    background-position: center top;
+   	background-repeat: no-repeat;
+   	background-size: cover;
+   	background-attachment: fixed;
+   	color: white;
+   	display: flex;
+   	justify-content: center;
+	align-items: center;
+}
+
+.regular{
+	height: 500px;
+
+}
+
+h1{}
